@@ -1,6 +1,6 @@
 ## Intro ##
 * Hello, My name is MinKyu Tae.
-* I'm studying HTML, CSS, JavaScript, React to become a Front-end Developer.
+* I'm studying HTML, CSS, JavaScript, React for becoming a Front-end Developer.
 
 ## 공부 ##
 * <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
