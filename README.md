@@ -1,14 +1,12 @@
 ## Intro ##
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minkyu%20Tae&fontSize=90)
 
-* Hello, My name is MinKyu Tae.
-* I'm studying HTML, CSS, JavaScript and React for becoming a Front-end Developer.
+### Hello, My name is MinKyu Tae.
+### I'm studying HTML, CSS, JavaScript and React for becoming a Front-end Developer.
+<br/>
 
 ## 공부 ##
-* <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-* <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-* <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-* <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 ![alsrb0504's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrb0504&&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrb0504&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)](https://github.com/alsrb0504/github-readme-stats)
