@@ -1,4 +1,6 @@
 ## Intro ##
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minkyu%20Tae&fontSize=90)
+
 * Hello, My name is MinKyu Tae.
 * I'm studying HTML, CSS, JavaScript and React for becoming a Front-end Developer.
 
@@ -8,14 +10,16 @@
 * <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 * <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
+![alsrb0504's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrb0504&&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrb0504&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)](https://github.com/alsrb0504/github-readme-stats)
+
+
 
 ## 백준 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alsrb0504)](https://solved.ac/alsrb0504)
 
 
-----
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  <img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-----
+---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsrb0504&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!---
