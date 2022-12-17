@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minkyu%20Tae&fontSize=90)
 
+<div align=center>
+
 ### Hello, My name is MinKyu Tae.
 ### I'm studying HTML, CSS, JavaScript and React for becoming a Front-end Developer.
 <br/>
@@ -23,3 +25,5 @@
 alsrb0504/alsrb0504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+</div>
