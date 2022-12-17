@@ -1,4 +1,3 @@
-## Intro ##
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minkyu%20Tae&fontSize=90)
 
 ### Hello, My name is MinKyu Tae.
