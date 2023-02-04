@@ -2,18 +2,31 @@
 
 <div align=center>
 
-### Hello, My name is MinKyu Tae.
+### 👋 Hello, My name is MinKyu Tae.
 ### I'm studying HTML, CSS, JavaScript and React for becoming a Front-end Developer.
 <br/>
 
-## 공부 ##
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+## 🛠 Tech Stack ##
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
+
+### 🌱 Learning ###
+
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Recoil" src="https://img.shields.io/badge/Recoil-026FDC?style=for-the-badge&logoColor=white"/>
+
+  <br/> 
+  <br/> 
+  <br/> 
+ 
+
+## 📊 Git Status ##
+  
 ![alsrb0504's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrb0504&&show_icons=true&theme=vue) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrb0504&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)](https://github.com/alsrb0504/github-readme-stats)
 
-
-
-## 백준 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alsrb0504)](https://solved.ac/alsrb0504)
 
 
