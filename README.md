@@ -3,7 +3,7 @@
 <div align=center>
 
 ### 👋 Hello, My name is MinKyu Tae.
-### I'm studying HTML, CSS, JavaScript and React for becoming a Front-end Developer.
+### I'm studying JavaScript and React for becoming a Front-end Developer.
 <br/>
 
 ## 🛠 Tech Stack ##
