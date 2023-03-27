@@ -15,8 +15,9 @@
 
 ### 🌱 Learning.. ###
 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Recoil" src="https://img.shields.io/badge/Recoil-026FDC?style=for-the-badge&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  
+  
 
   <br/> 
   <br/> 
